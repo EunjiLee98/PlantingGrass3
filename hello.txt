@@ -1,4 +1,5 @@
 hello world
 handong global university
 I'm EunjiLee
-this is for week7 assignment
+this is for week7 assignment - from v6
+what am i doing? - from v7
