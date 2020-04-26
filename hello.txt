@@ -3,3 +3,9 @@ handong global university - from v2
 I'm EunjiLee - from v3
 today is sunday - from v5
 I love using git - from v6
+hello world
+handong global university
+I'm EunjiLee
+this is for week7 assignment - from v6
+what am i doing? - from v7
+wow already version 8 - from v8
